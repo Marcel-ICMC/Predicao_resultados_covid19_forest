@@ -1,8 +1,7 @@
-## Mineração de dados
-# Disciplina: SCC0244 — Mineraçãoo a partir de Grandes Bases de
-Dados
+# Mineração de dados
+## Disciplina: SCC0244 — Mineraçãoo a partir de Grandes Bases de Dados
 
-1° Trabalho Prático
+### 1° Trabalho Prático
 
 
 Criar nova base
